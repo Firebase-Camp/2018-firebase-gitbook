@@ -1,3 +1,4 @@
-# My Awesome Book
+# About Firebase Camp
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Firebase Camp is a Study Camp focused on mobile & web application development using Firebase. This is work in progress intended to serve as materials to run one or more training events \(half-day, full-day or multi-day workshops\) where attendees can go from awareness to actionable learning.
+
