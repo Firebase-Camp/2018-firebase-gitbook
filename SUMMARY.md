@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-* [About This Book](README.md)
+* [README.md](README.md)
 * [History](Introduction/history.md)
 
 ## CORE FIREBASE
